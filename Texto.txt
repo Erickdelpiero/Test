@@ -7,3 +7,5 @@ Tengo 24 años
 Soy de Perú
 Vivo en Lima
 Pero Antes vivía en Chiclayo
+
+Ahora es el CTO de Pangi Care
