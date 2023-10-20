@@ -9,3 +9,6 @@ Vivo en Lima
 Pero Antes vivía en Chiclayo
 
 Ahora es el CTO de Pangi Care
+
+Hola estoy agregando cambios
+Version Master
