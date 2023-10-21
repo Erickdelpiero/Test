@@ -1,14 +1,5 @@
 Hola, esto es la cabecera
+De la Nueva Hilera
 
-Estoy escribiendo un texto plano
-
-Mi nombre es Erick Del Piero
-Tengo 24 años
-Soy de Perú
-Vivo en Lima
-Pero Antes vivía en Chiclayo
-
-
-V2 despues de tener 2 hileras
-La V1 es la misma que de la otra hilera
-V1(master)=V1(NueaHilera)
+Aca va texto que quiero compartir como contenido nuevo
+V3 de la NuevaHilera
