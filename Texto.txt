@@ -1,11 +1,2 @@
 Hola, esto es la cabecera
-
-Estoy escribiendo un texto plano
-
-Mi nombre es Erick Del Piero
-Tengo 24 años
-Soy de Perú
-Vivo en Lima
-Pero Antes vivía en Chiclayo
-
-Nuevo Master2
+De la Nueva Hilera
