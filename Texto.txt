@@ -8,4 +8,7 @@ Soy de Perú
 Vivo en Lima
 Pero Antes vivía en Chiclayo
 
-Nuevo Master2
+
+V2 despues de tener 2 hileras
+La V1 es la misma que de la otra hilera
+V1(master)=V1(NueaHilera)
