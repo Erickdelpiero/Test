@@ -1,6 +1,5 @@
 # Test
-Test initial
+Readme de prueba
 
-Este es el Readme desde la PC-Ubuntu
-Se solicita confirmar a la lapop HP
-Se confirma que llegó a la laptop HP
+Se usó este repositorio para aprender
+el uso de Git y Github.
